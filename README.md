@@ -59,20 +59,28 @@ Forecast of the top regions for a period of 1 year ahead. As forecast horizon in
 
 ![graph5](./images/forecast.png)
 
-## Conclusions
+## Recommendation
 
-The top 5 zipcodes to invest in from safe to risky are:
+Based on the analysis the top 5 zipcodes to invest in depending on risk level will be:
+
+Low risk:
 * 11229 (1 year ROI: 6.4% +/- 0.9%)
+
+Moderate risk:
 * 11355 (1 year ROI: 10.5% +/- 7.7%)
 * 11354 (1 year ROI: 7.7% +/- 9.6%)
+
+High risk:
 * 11694 (1 year ROI: 13.3% +/- 28.7%)
 * 11222 (1 year ROI: 18.6% +/- 33.7%)
 
 
-## Limitations
+## Conclusion
+
+### Limitations
 Forecasts are based on previous performance . There are many other factors that impact house prices such as GDP, mortgage interest rates, unemployment rates, inflation, and a host of other economic factors. 
  
-## Next Steps
+### Next Steps
 
 Other modeling methods can be test out, such as ARIMAX which can include external factors, such as the ones listed above into the model and improve the quality of forecasts.
 
